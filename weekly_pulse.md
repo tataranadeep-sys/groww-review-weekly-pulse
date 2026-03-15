@@ -1,20 +1,20 @@
-# Groww App – Weekly Review Pulse
+# Groww App – Weekly Product Pulse
 
-Review window: Last 8–12 weeks  
-Sources: Google Play Store and Apple App Store reviews
+Review Window: Last 8–12 weeks  
+Source: App Store + Google Play reviews
 
 ---
 
 ## Top Themes
 
 **1. KYC / Onboarding Issues**  
-Several users report problems completing KYC verification or document uploads.
+Several users report problems completing verification or uploading documents.
 
 **2. Customer Support Delays**  
-Users mention slow responses when contacting support teams.
+Users mention slow response times when contacting support.
 
 **3. App Performance**  
-Some reviews highlight app crashes or slow login during market hours.
+Some users experience crashes or login delays during peak trading hours.
 
 ---
 
@@ -30,10 +30,12 @@ Some reviews highlight app crashes or slow login during market hours.
 
 ## Action Ideas
 
-1. Improve KYC error messaging and verification progress tracking.  
-2. Introduce in-app support ticket status tracking.  
-3. Improve performance stability during peak market hours.
+1. Improve KYC error messaging and verification progress tracking.
+
+2. Add in-app support ticket status tracking.
+
+3. Improve performance stability during peak market activity.
 
 ---
 
-Overall sentiment: Positive usability feedback but operational reliability issues remain.
+Overall sentiment: Positive usability feedback but operational issues reduce user trust.
